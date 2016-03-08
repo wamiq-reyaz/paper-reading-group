@@ -1,29 +1,9 @@
-# Kiko
+# Nylas Paper Reading Group
 
-[Kiko](http://github.com/gfjaru/Kiko) is a theme for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+The Nylas Paper Reading Group is a collection of people who like to read technical papers and discuss them.
 
-[See it live](https://kiko.gfjaru.com/)
+Check out this site at https://nylas.github.io/paper-reading-group
 
-## To do lists
+# Theme
 
-Convert to Ghost
-
-Convert to Tumblr
-
-Convert to Jekyll 3.0
-
-## Get Started
-
-1. Fork this repository
-2. Clone the repository to your computer.<br />`git clone https://github.com/YOURUSERNAME/Kiko`  
-3. Run it.<br />`jekyll serve`
-4. Go to http://127.0.0.1:4000.
-
-## Make it yours
-
-1. Change name and add/remove nav at `_config.yml`.
-2. Change `about.md`.
-
-## License
-
-This theme is released under MIT License.
+Based on the wonderful [Kiko](http://github.com/gfjaru/Kiko) by [@gfjaru](https://twitter.com/gfjaru).
