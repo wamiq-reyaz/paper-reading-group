@@ -12,8 +12,7 @@ twitter:
 #    publisher:      1234
 
 # URL
-baseurl:            ""
-#baseurl:            "" #For Root Domain
+baseurl:            "/paper-reading-group"
 permalink:          /:year/:month/:day/:title/
 
 # Markdown
