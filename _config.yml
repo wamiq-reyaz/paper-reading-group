@@ -21,11 +21,11 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "Papers"
-    href:           "/"
+    href:           ""
   - name:           "About"
-    href:           "/about"
+    href:           "about"
   - name:           "Join"
-    href:           "/join"
+    href:           "join"
 
 
 # Sass
