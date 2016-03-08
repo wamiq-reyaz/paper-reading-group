@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="content post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-date">
+      <time>{{ page.date | date: "%-d %b %Y" }}</time>
+  </div>
+
+  <p class="lead">{{ page.description }}</p>
+<h4>Download</h4>
+
+<img src="{{ site.baseurl }}/img/file-pdf@2x.png" style="width:20px; display:inline; margin:0">&nbsp;&nbsp;
+<a style="white-space: normal;
+  text-decoration: underline;
+  " href="{{ site.baseurl }}/papers/{{page.filename}}">
+  {{page.filename}}</a>
+
+
+  {{ content }}
+</div>

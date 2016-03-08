@@ -1,0 +1,52 @@
+# Basic
+name:               "Nylas Paper Reading Group"
+description:        "a collection of people who like to read technical papers and discuss them"
+
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+url:                "//nylas.github.io/Paper-Reading-Group"
+author:             "nylas"
+twitter:
+  username:         "nylas"
+#facebook:
+#  app_id:           1234
+#    publisher:      1234
+
+# URL
+baseurl:            ""
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title/
+
+# Markdown
+markdown:           kramdown
+
+# Navigation
+nav:
+  - name:           "Papers"
+    href:           "/"
+  - name:           "About"
+    href:           "/about"
+  - name:           "Join"
+    href:           "/join"
+
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-seo-tag

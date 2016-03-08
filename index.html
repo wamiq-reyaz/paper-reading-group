@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="content list">
+{% if site.posts.size == 0 %}
+  <h2>No post found</h2>
+{% else %}
+{% for post in site.posts %}
+  <div class="list-item">
+    <h2 class="list-post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    <div class="list-post-summary">{{ post.description }}</div>
+    <div style="text-align:center;"><a href="{{ site.baseurl }}{{ post.url }}">Read more&nbsp;&raquo;</a></div>
+    <hr>
+  </div>
+
+{% endfor %}
+{% endif %}
+</div>
