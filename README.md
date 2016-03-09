@@ -4,6 +4,10 @@ The Nylas Paper Reading Group is a collection of people who like to read technic
 
 Check out this site at https://nylas.github.io/paper-reading-group
 
+## Adding stuff
+
+Run this locally with `jekyll serve --baseurl=`
+
 # Theme
 
 Based on the wonderful [Kiko](http://github.com/gfjaru/Kiko) by [@gfjaru](https://twitter.com/gfjaru).
