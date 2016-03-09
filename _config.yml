@@ -21,13 +21,13 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "Papers"
-    href:           "/"
+    href:           "/paper-reading-group/"
   - name:           "About"
-    href:           "/about"
+    href:           "/paper-reading-group/about"
   - name:           "Join"
     href:           "https://groups.google.com/d/forum/nylas-paper-reading-group"
   - name:           "Future"
-    href:           "/future"
+    href:           "/paper-reading-group/future"
 
 # Sass
 sass:
