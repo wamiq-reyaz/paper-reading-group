@@ -24,7 +24,7 @@
     {% assign current = 'current' %}
     {% endif %}
 
-    <a class="{{ current }}" href="{{ nav.href }}">{{ nav.name }}</a>
+    <a class="{{ current }}" href="{{site.baseurl}}{{ nav.href }}">{{ nav.name }}</a>
     {% endfor %}
   </nav>
 </header>
