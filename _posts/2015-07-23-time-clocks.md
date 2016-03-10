@@ -1,9 +1,7 @@
 ---
 title: Time, Clocks, and the Ordering of Events in a Distributed System
 
-description:
-
-The concept of one event happening before another
+description: The concept of one event happening before another
 in a distributed system is examined, and is shown to
 define a partial ordering of the events. A distributed
 algorithm is given for synchronizing a system of logical

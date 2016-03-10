@@ -1,9 +1,7 @@
 ---
 title: Virtual Time and Global States of Distributed Systems
 
-description:
-
-A distributed system can be characterized by the fact
+description: A distributed system can be characterized by the fact
 that the global state is distributed and that a common
 time base does not exist. However, the notion of time
 is an important concept in every day life of our decentralized

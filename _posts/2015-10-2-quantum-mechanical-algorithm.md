@@ -1,9 +1,7 @@
 ---
 title: A fast quantum mechanical algorithm for database search
 
-description:
-
-This paper applies quantum computing to a
+description: This paper applies quantum computing to a
 mundane problem in information processing and presents
 an algorithm that is significantly faster than any
 classical algorithm can be. The problem is this: there is
