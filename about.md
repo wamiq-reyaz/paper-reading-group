@@ -12,3 +12,10 @@ This blog is mostly to keep notes on papers we have read. Tweet at [@nylas](http
 <p class="lead">Code of Conduct.</p>
 
 Don't be a jackass.
+
+
+<p class="lead">Inspiration</p>
+
+The now-defunkt [Stripe paper reading group](https://github.com/gdb/stripe-prg/wiki/Papers)
+
+["Papers we Love"](https://github.com/papers-we-love/papers-we-love) meetup group
