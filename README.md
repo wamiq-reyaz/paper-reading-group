@@ -1,12 +1,10 @@
-# Nylas Paper Reading Group
+# Wonka Paper Reading Group
 
-The Nylas Paper Reading Group is a collection of people who like to read technical papers and discuss them.
+The Wonka Paper Reading Group is the internet-home of the Research Group at KAUST .
 
-Check out this site at https://nylas.github.io/paper-reading-group
+The papers we choose to read and discuss are primarily in the area of Visual Computing, which often means they are diverse - covering Geometric Modelling, Generative Modelling, Sampling, Semantic Segmentation and much more.
 
-## Adding stuff
-
-Run this locally with `jekyll serve --baseurl=`
+This blog is mostly to keep notes on papers we have read.
 
 # Theme
 
