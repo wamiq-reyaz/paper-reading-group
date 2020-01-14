@@ -11,7 +11,7 @@ This blog is mostly to keep notes on papers we have read.
 
 <p class="lead">Code of Conduct.</p>
 
-Read. Read. Read.
+Read. Read. Read. <\br>
 Ask Questions.
 
 <p class="lead">Inspiration</p>
