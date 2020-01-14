@@ -1,6 +1,6 @@
 # Wonka Paper Reading Group
 
-The Wonka Paper Reading Group is the internet-home of the Research Group at KAUST .
+The Wonka Paper Reading Group is the internet-home of the Wonka Research Group at KAUST .
 
 The papers we choose to read and discuss are primarily in the area of Visual Computing, which often means they are diverse - covering Geometric Modelling, Generative Modelling, Sampling, Semantic Segmentation and much more.
 
