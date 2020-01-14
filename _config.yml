@@ -1,12 +1,12 @@
 # Basic
-name:               "Nylas Paper Reading Group"
-description:        "a collection of people who like to read technical papers and discuss them"
+name:               "Wonka Paper Reading Group"
+description:        "Paper reading group in Visual Computing"
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 url:                "//nylas.github.io/Paper-Reading-Group"
-author:             "nylas"
+author:             "wamiq"
 twitter:
-  username:         "nylas"
+  username:         "wamiq"
 #facebook:
 #  app_id:           1234
 #    publisher:      1234
@@ -24,8 +24,6 @@ nav:
     href:           "/paper-reading-group/"
   - name:           "About"
     href:           "/paper-reading-group/about"
-  - name:           "Join"
-    href:           "https://groups.google.com/d/forum/nylas-paper-reading-group"
   - name:           "Future"
     href:           "/paper-reading-group/future"
 
