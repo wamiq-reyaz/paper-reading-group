@@ -3,7 +3,7 @@ title: About
 permalink: /about
 ---
 
-<p class="lead">The Wonka Paper Reading Group is the internet-home of the .</p>
+<p class="lead">The Wonka Paper Reading Group is the internet-home of the [Research Group](http://peterwonka.net) at [KAUST](https://kaust.edu.sa).</p>
 
 The papers we choose to read and discuss are primarily in the area of Visual Computing, which often means they are diverse -  covering Geometric Modelling, Generative Modelling, Sampling, Semantic Segmentation and much more.
 
