@@ -3,16 +3,16 @@ title: About
 permalink: /about
 ---
 
-<p class="lead">The Nylas Paper Reading Group is a collection of people who like to read technical papers and really like to discuss them.</p>
+<p class="lead">The Wonka Paper Reading Group is the internet-home of the .</p>
 
-The papers we choose to read are typically computer systems related, but not always. We meet once a month at NylasHQ. Dinner is usually provided and discussion, always.
+The papers we choose to read and discuss are primarily in the area of Visual Computing, which often means they are diverse covering Geometric Modelling, Generative Modelling, Sampling, Semantic Segmentation and much more.
 
-This blog is mostly to keep notes on papers we have read. Tweet at [@nylas](https://twitter.com/nylas) if you have ideas or feedback. Thanks!
+This blog is mostly to keep notes on papers we have read. 
 
 <p class="lead">Code of Conduct.</p>
 
-Don't be a jackass.
-
+Read. Read. Read.
+Ask Questions.
 
 <p class="lead">Inspiration</p>
 
